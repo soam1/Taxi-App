@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">GPSLocationApp</string>
+    <string name="location_lattitude_and_logitude">Location- Lattitude and Logitude</string>
+    <string name="please_enter_the_address_here">Please enter the address here...</string>
+    <string name="enter_metres_per_mile_or_km">enter metres per mile(or km)</string>
+    <string name="enter_miles_or_km_per_hour">Enter miles(or km) per hour</string>
+    <string name="time_remaining_to_reach_the_destination">Time remaining to reach the destination...</string>
+    <string name="the_value_of_the_distance_goes_here">The value of the distance goes here...</string>
+    <string name="please_enter_the_destination_address_here">please enter the destination address here</string>
+    <string name="enter_miles_per_hour">Enter miles per hour</string>
+    <string name="enter_metres_per_mile">Enter metres per mile</string>
+    <string name="get_the_data">Get the Data</string>
 </resources>
